@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- tab bar left distance start -->
+    <dimen name="tab_bar_back_left">10dp</dimen>
+    <dimen name="tab_bar_right">10dp</dimen>
+    <dimen name="tab_bar_title_size">12sp </dimen>
+    <dimen name="tab_bar_right_text_size">12sp</dimen>
+    <!-- end -->
+
+    <!-- search bar left right start-->
+    <dimen name="search_bar_margin_left">20dp</dimen>
+    <dimen name="search_bar_margin_right">20dp</dimen>
+    <!-- end -->
+
+    <!-- home message item laoyout margin left start-->
+    <dimen name="msg_item_margin_left">10dp</dimen>
+    <dimen name="msg_item_margin_right">10dp</dimen>
+    <dimen name="msg_item_head_pic_margin_right">10dp</dimen>
+    <dimen name="name_msg_left_distance">10dp</dimen>
+    <dimen name="name_margin_bottom">10dp</dimen>
+    <dimen name="time_count_msg_margin_right">10dp</dimen>
+    <!-- end -->
+</resources>

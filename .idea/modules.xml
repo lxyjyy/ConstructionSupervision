@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConstructionSupervision.iml" filepath="$PROJECT_DIR$/ConstructionSupervision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs/cs.iml" filepath="$PROJECT_DIR$/cs/cs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frameandroid/frameandroid.iml" filepath="$PROJECT_DIR$/frameandroid/frameandroid.iml" />
+    </modules>
+  </component>
+</project>

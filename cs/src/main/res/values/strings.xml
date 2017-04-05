@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"ConstructionSupervision "</string>
+
+    <!-- home tabs start-->
+    <string name="tab_message">消息</string>
+    <string name="tab_work">工作</string>
+    <string name="tab_contact">联系人</string>
+    <string name="mine">我的</string>
+    <!--  end-->
+    <!-- search edittext start-->
+    <string name="search_bar_hint">搜索</string>
+    <!-- end -->
+    
+    <string name="delete_msg">删除</string>
+    <string name="set_msg_top">置顶</string>
+</resources>
